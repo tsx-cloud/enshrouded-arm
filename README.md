@@ -13,12 +13,14 @@ The build works perfectly fine without ntsync — the only thing you need to do 
 Autosave works correctly when using docker stop.
 
 ## ARM
-You can set your custom Box64 configuration in  
+You can set your custom Box64 or Fex-emu configuration in  
 `./enshrouded/persistentdata/settings/emulators.rc`  
 This lets you fine-tune the emulator for your specific device or OS.
 
 A list of available environment variables can be found here:  
-https://github.com/ptitSeb/box64/blob/main/docs/USAGE.md
+https://github.com/ptitSeb/box64/blob/main/docs/USAGE.md  
+and here (for arm64-fex tag):  
+https://github.com/FEX-Emu/FEX/blob/main/FEXCore/Source/Interface/Config/Config.json.in
 
 ## Environment variables
 This build doesn't rely on any special environment variables.  
