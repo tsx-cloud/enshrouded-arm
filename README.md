@@ -61,8 +61,8 @@ You can find the Docker builds here:
 https://hub.docker.com/r/tsxcloud/enshrouded-arm
 
 ## Acknowledgments
-https://github.com/jsknnr/enshrouded-server
-https://github.com/Kron4ek/Wine-Builds  
+https://github.com/jsknnr/enshrouded-server  
+https://github.com/Kron4ek/Wine-Builds    
 https://github.com/steamcmd/docker  
 
 ## 
