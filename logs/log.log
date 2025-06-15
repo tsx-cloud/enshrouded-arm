@@ -1,0 +1,811 @@
+ Container wine2-enshrouded-1  Recreate
+ Container wine2-enshrouded-1  Recreated
+Attaching to enshrouded-1
+enshrouded-1  | Load extra Box64 and Fex-emu settings from emulators.rc
+enshrouded-1  | INFO: Emulators config not present, copying default
+enshrouded-1  |  
+enshrouded-1  | Box64 arm64 v0.3.7 a3d153ca with Dynarec built on Jun 14 2025 06:29:32
+enshrouded-1  |  
+enshrouded-1  | wine-10.10.r0.gc37f9f50 ( TkG Staging NTsync )
+enshrouded-1  |  
+enshrouded-1  | 2025-06-14 20:27:09,741 INFO: Updating Enshrouded Dedicated Server
+enshrouded-1  | [[31mBOX64[0m] Error: Reading elf header of /root/steamcmd/steamcmd.sh, Try to launch using bash instead
+enshrouded-1  | Redirecting stderr to '/root/Steam/logs/stderr.txt'
+enshrouded-1  | Logging directory: '/root/Steam/logs'
+enshrouded-1  | [  0%] Checking for available updates...
+enshrouded-1  | [----] Verifying installation...
+enshrouded-1  | UpdateUI: skip show logo
+enshrouded-1  | Steam Console Client (c) Valve Corporation - version 1747702063
+enshrouded-1  | -- type 'quit' to exit --
+enshrouded-1  | Loading Steam API...[0mIPC function call IClientUtils::GetSteamRealm took too long: 84 msec
+enshrouded-1  | OK
+enshrouded-1  | [0m"@sSteamCmdForcePlatformType" = "windows"
+enshrouded-1  | [0m
+enshrouded-1  | Connecting anonymously to Steam Public...[0mOK
+enshrouded-1  | [0mWaiting for client config...[0mOK
+enshrouded-1  | [0mWaiting for user info...[0mOK
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 0.05 (3145728 / 5995637552)
+enshrouded-1  | [0m[[31mBOX32[0m] Warning, long 4294967295 is not a 32bits value
+enshrouded-1  | [[31mBOX32[0m] Warning, long 4294967295 is not a 32bits value
+enshrouded-1  |  Update state (0x61) downloading, progress: 0.80 (47775704 / 5995637552)
+enshrouded-1  | [0m[[31mBOX32[0m] Warning, long 4294967295 is not a 32bits value
+enshrouded-1  |  Update state (0x61) downloading, progress: 1.39 (83299800 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 3.88 (232564776 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 6.10 (366015718 / 5995637552)
+enshrouded-1  | [0m[[31mBOX32[0m] Warning, long 4294967295 is not a 32bits value
+enshrouded-1  |  Update state (0x61) downloading, progress: 7.79 (467141771 / 5995637552)
+enshrouded-1  | [0m[[31mBOX32[0m] Warning, long 4294967295 is not a 32bits value
+enshrouded-1  |  Update state (0x61) downloading, progress: 9.42 (564720699 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 10.98 (658394853 / 5995637552)
+enshrouded-1  | [0m[[31mBOX32[0m] Warning, long 4294967295 is not a 32bits value
+enshrouded-1  |  Update state (0x61) downloading, progress: 12.47 (747955350 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 14.20 (851260566 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 15.87 (951251274 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 17.21 (1031807278 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 18.98 (1138016566 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 20.71 (1241397666 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 22.49 (1348238160 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 24.03 (1440590672 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 25.58 (1533600455 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 27.22 (1631929598 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 29.02 (1739928830 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 30.71 (1841395844 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 32.29 (1936258649 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 33.91 (2032944717 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 35.45 (2125722515 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 37.33 (2238178596 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 38.92 (2333206162 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 40.66 (2437760646 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 42.38 (2540742274 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 43.97 (2636166849 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 45.38 (2720643234 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 46.94 (2814088765 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 48.53 (2909398589 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 50.53 (3029718687 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 52.25 (3132708507 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 53.96 (3234953539 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 55.60 (3333730130 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 57.25 (3432447100 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 58.89 (3530922671 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 60.52 (3628554934 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 62.11 (3723985499 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 63.83 (3826778715 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 65.60 (3932869941 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 67.34 (4037561497 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 69.48 (4165811345 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 71.18 (4267895953 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 72.71 (4359242354 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 74.25 (4451598962 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 75.93 (4552533482 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 77.56 (4650119135 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 79.85 (4787511287 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 81.69 (4897600224 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 83.24 (4990640358 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 84.74 (5080872226 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 86.50 (5185981011 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 89.46 (5363931063 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 91.17 (5465982533 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 93.00 (5576205877 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 94.61 (5672654397 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 96.34 (5776190226 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 98.13 (5883374359 / 5995637552)
+enshrouded-1  | [0m Update state (0x61) downloading, progress: 99.91 (5990394665 / 5995637552)
+enshrouded-1  | [0m Update state (0x81) verifying update, progress: 14.32 (858406990 / 5995637552)
+enshrouded-1  | [0m Update state (0x81) verifying update, progress: 31.18 (1869574222 / 5995637552)
+enshrouded-1  | [0mIPC function call IClientAppManager::GetUpdateInfo took too long: 53 msec
+enshrouded-1  | Success! App '2278520' fully installed.
+enshrouded-1  | [0mUnloading Steam API...[0mOK
+enshrouded-1  | [0m2025-06-14 20:29:22,140 INFO: Enshrouded server config not present, copying example
+enshrouded-1  |  
+enshrouded-1  | 2025-06-14 20:29:22,143 INFO: Starting Enshrouded Dedicated Server
+enshrouded-1  | [base] debug symbols could not be initialized. stack traces will not contain symbol information!
+enshrouded-1  | GetTimerResolution 0: 1,000 ( 1,000 - 15,625 ) us
+enshrouded-1  | SetTimerResolution 0: 1,000 us
+enshrouded-1  | GetTimerResolution 0: 1,000 ( 1,000 - 15,625 ) us
+enshrouded-1  | [os] Started thread 0x0000000000e86988 (NetworkSystem) with stack range (0x0000000008cf0000-0x0000000008df0000 size:1,048,576)
+enshrouded-1  | [os] Started thread 0x0000000000e86b10 (MessageSystem) with stack range (0x0000000028df0000-0x0000000028ef0000 size:1,048,576)
+enshrouded-1  | [os] Started thread 0x000000000110a810 (Task-Default02) with stack range (0x0000000028ef0000-0x00000000292f0000 size:4,194,304)
+enshrouded-1  | [os] Started thread 0x000000000100a6d0 (Task-Background00) with stack range (0x00000000292f0000-0x00000000296f0000 size:4,194,304)
+enshrouded-1  | 'gameSettings' will not be applied Preset is not set to 'Custom'
+enshrouded-1  | -----------------------------------------------------------------------------------------------------------
+enshrouded-1  |                      /\ \                             /\ \           /\ \    
+enshrouded-1  |    __    ___     ____\ \ \___   _ __   ___   __  __   \_\ \     __   \_\ \   
+enshrouded-1  |  /'__`\/' _ `\  /',__\\ \  _ `\/\`'__\/ __`\/\ \/\ \  /'_` \  /'__`\ /'_` \  
+enshrouded-1  | /\  __//\ \/\ \/\__, `\\ \ \ \ \ \ \//\ \L\ \ \ \_\ \/\ \L\ \/\  __//\ \L\ \ 
+enshrouded-1  | \ \____\ \_\ \_\/\____/ \ \_\ \_\ \_\\ \____/\ \____/\ \___,_\ \____\ \___,_\
+enshrouded-1  |  \/____/\/_/\/_/\/___/   \/_/\/_/\/_/ \/___/  \/___/  \/__,_ /\/____/\/__,_ /
+enshrouded-1  |                                                                              
+enshrouded-1  |   ____     __   _ __   __  __     __   _ __                                  
+enshrouded-1  |  /',__\  /'__`\/\`'__\/\ \/\ \  /'__`\/\`'__\                                
+enshrouded-1  | /\__, `\/\  __/\ \ \/ \ \ \_/ |/\  __/\ \ \/                                 
+enshrouded-1  | \/\____/\ \____\\ \_\  \ \___/ \ \____\\ \_\                                 
+enshrouded-1  |  \/___/  \/____/ \/_/   \/__/   \/____/ \/_/
+enshrouded-1  | -----------------------------------------------------------------------------------------------------------
+enshrouded-1  | enshrouded_server(detached HEAD) - version 22eaf4b082edbced96ae5bde7562934753c54ac0 (master)
+enshrouded-1  | Arguments:
+enshrouded-1  | 	 Z:\mnt\enshrouded\server\enshrouded_server.exe
+enshrouded-1  | 	 --config
+enshrouded-1  | 	 /mnt/enshrouded/persistentdata/settings/enshrouded_server.json
+enshrouded-1  | Config Parsed: '/mnt/enshrouded/persistentdata/settings/enshrouded_server.json'
+enshrouded-1  | Current UTC date: 2025.06.14 20:29:23
+enshrouded-1  | CpuInfo:
+enshrouded-1  |     Type:      Intel
+enshrouded-1  |     Vendor:    'GenuineIntel'
+enshrouded-1  |     Brand:     'Box64 on Neoverse-V2 @1000 MHz'
+enshrouded-1  |     LCpus:      2
+enshrouded-1  |         LPerf:   2 00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000011
+enshrouded-1  |         PPerf:   2 00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000011
+enshrouded-1  |         LEffi:   0 00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000000
+enshrouded-1  |     CacheLine: 64
+enshrouded-1  |     Simd:      SSE2,SSE3,SSSE3,SSE41,SSE42,AVX,AVX2
+enshrouded-1  |     Other:     FMA,BMI1,BMI2,F16C,AES,SHA,RDRAND
+enshrouded-1  | MemoryInfo:
+enshrouded-1  |     PhysTotal:   16,727,875,584
+enshrouded-1  |     PhysAvail:   14,946,832,384
+enshrouded-1  |     SwapTotal:   16,727,883,776
+enshrouded-1  |     SwapAvail:   14,946,832,384
+enshrouded-1  | OsSystemInfo:
+enshrouded-1  |     ProductName:    'Windows 10 Pro'
+enshrouded-1  |     DisplayVersion: '21H1'
+enshrouded-1  |     Version:        10.0 (19045)
+enshrouded-1  | CPUs:
+enshrouded-1  |  Idx   Id  Group  LogIdx  CoreIdx  LLCIdx  NumaIdx  EffClass
+enshrouded-1  |   0   256    0       0        0       3       0        0
+enshrouded-1  |   1   257    0       1        1       3       0        0
+enshrouded-1  | CPU Types:
+enshrouded-1  |   LPerformance:   2   00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000011
+enshrouded-1  |   PPerformance:   2   00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000011
+enshrouded-1  |   LEfficient:     0   00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000000
+enshrouded-1  | [task] TaskSystemSetup:
+enshrouded-1  | [task]   mainWorkerCount: 2
+enshrouded-1  | [task]   Group 'Default'  Worker:3  Main:2
+enshrouded-1  | [task]      0:  Task-Default00     00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000000
+enshrouded-1  | [task]      1:  Task-Default01     00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000000
+enshrouded-1  | [task]      2:  Task-Default02     00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000011
+enshrouded-1  | [task]   Group 'Background'  Worker:1  Main:0
+enshrouded-1  | [task]      0:  Task-Background00  00000000'00000000'00000000'00000000'00000000'00000000'00000000'00000011
+enshrouded-1  | [task]   Group 'Shader'  Worker:0  Main:0
+enshrouded-1  | [app] start creation step Init
+enshrouded-1  | [app] start creation step Init_Steamworks
+enshrouded-1  | Setting breakpad minidump AppID = 1203620
+enshrouded-1  | SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561197960265728 [API loaded no]
+enshrouded-1  | [app] start creation step Init_ResourceSystem
+enshrouded-1  | [os] Started thread 0x000000000130d500 (SteamworksSystem) with stack range (0x000000002dc00000-0x000000002dd00000 size:1,048,576)
+enshrouded-1  | [os] 'QueryIoRingCapabilities' failed with error 0x80004001 - IORing not available
+enshrouded-1  | [os] Using platform specific Async I/O implementation!
+enshrouded-1  | [resource] Loaded kfc file 'Z:/mnt/enshrouded/server/enshrouded_server.kfc' with 31,764 resources.
+enshrouded-1  | [resource] Using MB(0x0000000000000000:0) as graphics upload buffer
+enshrouded-1  | [os] Using IOCP API for async io queue '' (buffers:1 max-command-count:64)
+enshrouded-1  | 
+enshrouded-1  | [os] Started thread 0x000000000130cd30 (ResourceContent) with stack range (0x000000002e010000-0x000000002e110000 size:1,048,576)
+enshrouded-1  | [os] Started thread 0x000000003dff0fc0 (AsyncIo-IOCP) with stack range (0x000000002e400000-0x000000002e500000 size:1,048,576)
+enshrouded-1  | [resource] Loaded 249,520,638 bytes of resource data in 147.65 ms
+enshrouded-1  | [app] start creation step Init_ResourcePreload_Start
+enshrouded-1  | [app] start creation step Init_ResourcePreload_Wait
+enshrouded-1  | [resource] Preload of 0 bytes finished after 257.00 us (0.00 MiB/s)
+enshrouded-1  | [app] start creation step Init_Version
+enshrouded-1  | Game Version (SVN): 710574
+enshrouded-1  | [app] start creation step Init_UserSystem
+enshrouded-1  | [user] Couldn't retrieve steam friends interface.
+enshrouded-1  | [user] Couldn't retrieve steam user interface.
+enshrouded-1  | [app] start creation step Init_OnlineSystem
+enshrouded-1  | [os] Started thread 0x000000004cfff7f0 (P2pReceiveThread) with stack range (0x000000002e800000-0x000000002e900000 size:1,048,576)
+enshrouded-1  | [os] Started thread 0x000000004cfff820 (P2pSendThread) with stack range (0x000000002e900000-0x000000002ea00000 size:1,048,576)
+enshrouded-1  | [OnlineProviderSteam] started transition from 'Uninitialized' to 'Initialized' (current='<invalid>')!
+enshrouded-1  | [app] start creation step Init_Session
+enshrouded-1  | [os] Started thread 0x000000004cffff70 (Session) with stack range (0x000000002ee50000-0x000000002ef50000 size:1,048,576)
+enshrouded-1  | [app] start creation step Init_Tracking
+enshrouded-1  | [os] Started thread 0x000000005dc0fe78 (HttpClient) with stack range (0x000000002efb0000-0x000000002f0b0000 size:1,048,576)
+enshrouded-1  | [app] start creation step Init_SaveDataSystem
+enshrouded-1  | [savedata] Couldn't retrieve steam remote storage interface.
+enshrouded-1  | [savedata] Steam Cloud is disabled.
+enshrouded-1  | [os] Started thread 0x0000000054ffff80 (SaveData) with stack range (0x000000002f150000-0x000000002f250000 size:1,048,576)
+enshrouded-1  | [app] start creation step Load_ResourceObject
+enshrouded-1  | [app] start creation step Init_TwitchDrops
+enshrouded-1  | [os] Started thread 0x0000000008c4a0a8 (HttpClient) with stack range (0x000000002f390000-0x000000002f490000 size:1,048,576)
+enshrouded-1  | [app] start creation step Init_ServerThread
+enshrouded-1  | [app] start creation step StartGame
+enshrouded-1  | [app] start creation step Init
+enshrouded-1  | [os] Started thread 0x0000000008c529a8 (GameServer) with stack range (0x000000002f910000-0x000000002fa10000 size:1,048,576)
+enshrouded-1  | [app] start creation step StartGame
+enshrouded-1  | [Session] started transition from 'Lobby' to 'Host_Online' (current='<invalid>')!
+enshrouded-1  | [session] Add local machine index 0 (id: 0).
+enshrouded-1  | [Session] 'PrepareGame' (up)!
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | [savedata] Start 'Open Container' on container 3ad85aea
+enshrouded-1  | [savedata] Updating 'Open Container' on container 3ad85aea
+enshrouded-1  | [savedata] Finished 'Open Container' on container 3ad85aea
+enshrouded-1  | [ecss] TaskQueue:  workerCount:3   taskWorkerCount:2
+enshrouded-1  | [server] Game Settings 'Default'
+enshrouded-1  | {
+enshrouded-1  | 	"playerHealthFactor": "1",
+enshrouded-1  | 	"playerManaFactor": "1",
+enshrouded-1  | 	"playerStaminaFactor": "1",
+enshrouded-1  | 	"playerBodyHeatFactor": "1",
+enshrouded-1  | 	"enableDurability": true,
+enshrouded-1  | 	"enableStarvingDebuff": false,
+enshrouded-1  | 	"foodBuffDurationFactor": "1",
+enshrouded-1  | 	"fromHungerToStarving": {
+enshrouded-1  | 		"value": 600000000000
+enshrouded-1  | 	},
+enshrouded-1  | 	"shroudTimeFactor": "1",
+enshrouded-1  | 	"tombstoneMode": "AddBackpackMaterials",
+enshrouded-1  | 	"enableGliderTurbulences": true,
+enshrouded-1  | 	"weatherFrequency": "Normal",
+enshrouded-1  | 	"miningDamageFactor": "1",
+enshrouded-1  | 	"plantGrowthSpeedFactor": "1",
+enshrouded-1  | 	"resourceDropStackAmountFactor": "1",
+enshrouded-1  | 	"factoryProductionSpeedFactor": "1",
+enshrouded-1  | 	"perkUpgradeRecyclingFactor": "3f000000",
+enshrouded-1  | 	"perkCostFactor": "1",
+enshrouded-1  | 	"experienceCombatFactor": "1",
+enshrouded-1  | 	"experienceMiningFactor": "1",
+enshrouded-1  | 	"experienceExplorationQuestsFactor": "1",
+enshrouded-1  | 	"randomSpawnerAmount": "Normal",
+enshrouded-1  | 	"aggroPoolAmount": "Normal",
+enshrouded-1  | 	"enemyDamageFactor": "1",
+enshrouded-1  | 	"enemyHealthFactor": "1",
+enshrouded-1  | 	"enemyStaminaFactor": "1",
+enshrouded-1  | 	"enemyPerceptionRangeFactor": "1",
+enshrouded-1  | 	"bossDamageFactor": "1",
+enshrouded-1  | 	"bossHealthFactor": "1",
+enshrouded-1  | 	"threatBonus": "1",
+enshrouded-1  | 	"pacifyAllEnemies": false,
+enshrouded-1  | 	"tamingStartleRepercussion": "LoseSomeProgress",
+enshrouded-1  | 	"dayTimeDuration": {
+enshrouded-1  | 		"value": 1800000000000
+enshrouded-1  | 	},
+enshrouded-1  | 	"nightTimeDuration": {
+enshrouded-1  | 		"value": 720000000000
+enshrouded-1  | 	},
+enshrouded-1  | 	"curseModifier": "Normal"
+enshrouded-1  | }
+enshrouded-1  | [TerraformingEfficiencyRegistry] Finished loading.
+enshrouded-1  | [ecss] Programs: 697
+enshrouded-1  | [ecs] Nobuild zones changed
+enshrouded-1  | [ecs] Build zones changed
+enshrouded-1  | [ecs] Build zones changed
+enshrouded-1  | [ecs] PlayableArea zones changed
+enshrouded-1  | [Server] Grid Allocator ( 140560 / 163577856 ) 0.09
+enshrouded-1  | [guid_registry] : Finished loading entry e284b901-c3dd-4282-8a4e-0a618e5763f5.
+enshrouded-1  | [guid_registry] : Finished loading entry 27a9e067-4b9f-45cf-b966-208a5ecbd53b.
+enshrouded-1  | [guid_registry] : Finished loading entry 85e3baea-7c93-4d6f-b1be-42f79b036761.
+enshrouded-1  | [guid_registry] : Finished loading entry 28c4b2ca-4a01-4ba9-9e05-49c871df6904.
+enshrouded-1  | [guid_registry] : Finished loading entry ec28c5d5-9d23-413e-b238-781157fb2f65.
+enshrouded-1  | [guid_registry] : Finished loading entry 5d9bd376-5b7f-4db4-8f2e-6a3e564194b1.
+enshrouded-1  | [guid_registry] : Finished loading entry 34aa0c3c-9a88-4f8b-a070-64827a5fdabf.
+enshrouded-1  | 2025-06-14 20:29:28,150 INFO: Waiting for enshrouded_server.exe to be running
+enshrouded-1  |     115 ?        00:00:03 enshrouded_serv
+enshrouded-1  |  
+enshrouded-1  | Checking NTSYNC
+enshrouded-1  | The NTSYNC module has been present in the Linux kernel since version 6.14 and is usually included only in the generic kernel versions.
+enshrouded-1  | Kernel version on this machine is -- 6.14.0-15-generic
+enshrouded-1  |  
+enshrouded-1  | COMMAND   PID USER FD   TYPE DEVICE SIZE/OFF NODE NAME
+enshrouded-1  | enshroude 115 root  7r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | wineserve 127 root  9r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | services. 131 root 14r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | winedevic 134 root  8r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | plugplay. 144 root  8r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | svchost.e 150 root  8r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | winedevic 157 root  8r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | explorer. 181 root  8r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  | rpcss.exe 187 root  8r   CHR 10,119      0t0   11 /dev/ntsync
+enshrouded-1  |  
+enshrouded-1  | NTSYNC Module is present in kernel, ntsync is running.
+enshrouded-1  |  
+enshrouded-1  | [online] Server connected to Steam successfully
+enshrouded-1  | [online] Server is not VAC Secure!
+enshrouded-1  | [online] Server SteamId: 90268699377891340
+enshrouded-1  | [online] Public ipv4: 34.1.254.124
+enshrouded-1  | [OnlineProviderSteam] 'Initialize' (up)!
+enshrouded-1  | [OnlineProviderSteam] 'JoinOrCreateGame' (up)!
+enshrouded-1  | Initializing P2P api: NetworkingMessages
+enshrouded-1  | [OnlineProviderSteam] 'SetLobbyData' (up)!
+enshrouded-1  | [OnlineProviderSteam] 'JoinLocalPlayers' (up)!
+enshrouded-1  | [OnlineProviderSteam] 'ConnectToPeers' (up)!
+enshrouded-1  | [OnlineProviderSteam] finished transition from 'Uninitialized' to 'InGame' (current='InGame')!
+enshrouded-1  | [Session] 'HostOnline' (up)!
+enshrouded-1  | [Session] finished transition from 'Lobby' to 'Host_Online' (current='Host_Online')!
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | [ecss] Stats:  Upd:3,598  (16.7ms)  Time:60,002ms  Total:3,573ms  Max:26ms  Avg:1.0ms  +:0  -:0  Ent:1,327  Pred:0
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | [online] Session accepted with peer (steamid:76561198103610863)
+enshrouded-1  | [online] Added peer #0 (steamid:76561198103610863)
+enshrouded-1  | [online] Begin auth session with peer #0
+enshrouded-1  | [online] Client '76561198103610863' authenticated by steam
+enshrouded-1  | [session] Unable to find machine for peer 0.
+enshrouded-1  | [session] Add remote machine index 1 (id: 582629040).
+enshrouded-1  | [SessionPlayer] started transition from 'Free' to 'Remote_InSession' (current='<invalid>')!
+enshrouded-1  | [session] Remote player added. Player handle: 0(0)
+enshrouded-1  | [SessionPlayer] 'Reserve' (up)!
+enshrouded-1  | [SessionPlayer] 'WaitForJoin' (up)!
+enshrouded-1  | [SessionPlayer] finished transition from 'Free' to 'Remote_InSession' (current='Remote_InSession')!
+enshrouded-1  | Received new Character save game
+enshrouded-1  | [server] Machine '1': Player '0(0)' logged in
+enshrouded-1  | [ecs] readEntitySerializationContext: Templates: 6  Components: 207  Size: 58,480
+enshrouded-1  | [server] Player 'tsx-cloud' logged in with Permissions:
+enshrouded-1  | 	 - CanKickBan
+enshrouded-1  | 	 - CanAccessInventories
+enshrouded-1  | 	 - CanEditBase
+enshrouded-1  | 	 - CanExtendBase
+enshrouded-1  | 
+enshrouded-1  | Config Variable 'StaminaGain::value' type did not match. Expected 'SInt32' got 'Float' ObjectId 'b7dbf24e-b5f3-46d0-bbe4-3462ba455e8d'
+enshrouded-1  | [ecss] Send BuildingZones
+enshrouded-1  | Extreme Movement: Id 6872, Template Enemy_Weakspots_Wildlife_Wolf, Movement (195.461670, 22.836365, -349.794556) Frame Duration 16.67 ms
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Furniture_Roughwood_Sideboard_Small_01
+enshrouded-1  | [session] Congestion baseline established for machine 1(0)
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  |   m#1(129): up 61 (259), down 37 (46), remote 61 (261), limit 2,048, lost 0, ping 36 ms, OperatingNormally
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | [ecss] Stats:  Upd:3,596  (16.7ms)  Time:60,014ms  Total:6,721ms  Max:63ms  Avg:1.9ms  +:0  -:0  Ent:19,316  Pred:0
+enshrouded-1  | Extreme Movement: Id 6904, Template Enemy_Weakspots_Wildlife_Rat_Head, Movement (-1432.068115, -6.720764, -1404.711426) Frame Duration 16.67 ms
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Furniture_Barrel02A_Wood
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : LootPickup_Food_Sweets_BeeHive_Wasp
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : LootPickup_Ammo_ArrowT1_Flint
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : LootPickup_Ammo_ArrowT1_Flint
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Destructible_Well_Production_Crate01_D
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_War_Palisades_02_A
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Camp_Palisades04_Wood
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Furniture_Roughwood_Wall_Shelf_A_broken_03
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  |   m#1(129): up 69 (80), down 33 (40), remote 68 (80), limit 2,252, lost 0, ping 35 ms, OperatingNormally
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Furniture_Roughwood_Wall_Shelf_A_broken_01
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Scatter_Loot_Grassland_Below_Plant_02_b
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Fog_Barrel01_FogSpores_Young
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Fog_Barrel01_FogSpores_Young
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  |   m#1(129): up 28 (39), down 12 (13), remote 27 (39), limit 2,252, lost 0, ping 38 ms, OperatingNormally
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | [ecss] Stats:  Upd:3,601  (16.7ms)  Time:60,015ms  Total:25,719ms  Max:24ms  Avg:7.1ms  +:0  -:0  Ent:18,411  Pred:0
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  |   m#1(129): up 79 (110), down 36 (41), remote 74 (106), limit 2,483, lost 0, ping 38 ms, OperatingNormally
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Scatter_Loot_Grassland_Below_Plant_02_a
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Deco_Desertprops_Painting_01
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Furniture_Roughwood_Wall_Shelf_A
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Deco_Desertprops_Painting_08
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Deco_Desertprops_Painting_07
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Furniture_Fogger_Sideboard_Small_01
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Deco_Villageprops_House_Sign_Holder_01_A
+enshrouded-1  | Extreme Movement: Id 10743, Template Enemy_Weakspots_Wildlife_Wolf, Movement (232.113770, 89.296875, 328.207642) Frame Duration 16.67 ms
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Fog_Barrel01_FogSpores_Young
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Fog_Barrel01_FogSpores_Young
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Fog_Barrel01_FogSpores_Young
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Prison_Cage_02
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Fog_Barrel01_FogSpores_Young
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  |   m#1(129): up 62 (67), down 43 (46), remote 62 (69), limit 2,875, lost 0, ping 38 ms, OperatingNormally
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | [ecss] Stats:  Upd:3,600  (16.7ms)  Time:60,000ms  Total:27,736ms  Max:18ms  Avg:7.7ms  +:0  -:0  Ent:15,333  Pred:0
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  |   m#1(129): up 48 (61), down 30 (44), remote 46 (61), limit 2,875, lost 0, ping 37 ms, OperatingNormally
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Deco_Desertprops_Painting_01
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Deco_Desertprops_Painting_03
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Fog_Barrel01_FogSpores_Young
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Camp_CraneBucket01_A
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_b
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_a
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_c
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Deco_Villageprops_House_Sign_02_A
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_b
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_a
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_b
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_a
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_b
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_c
+enshrouded-1  | Scene entity wasn't attached, removing AttachToSurface component : Prop_Well_Production_Storage_Scaffold_02_Floor_b
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  |   m#1(129): up 107 (118), down 39 (41), remote 106 (110), limit 3,670, lost 0, ping 37 ms, OperatingNormally
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | [server] Start Saving
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::USER took 4.89 ms
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::KNOW took 101.00 us
+enshrouded-1  | MaxClientComponents: 1
+enshrouded-1  | Snapshot took 18.81 ms:  Entities: 11,537 (4,696,448 bytes)  Storages: 299 (1,102,712 bytes)  Chunks: 416 (6,441,576 / 27,262,976 bytes)  ClientComps: 26,388 bytes  Templates: 10,016  Snapping: 5,799,170  TotalSize: ~27,373,620
+enshrouded-1  | Removed 0 duplicates
+enshrouded-1  | VoxelSaveSize: 0
+enshrouded-1  | [ecss] Stats:  Upd:3,600  (16.7ms)  Time:60,020ms  Total:25,512ms  Max:20ms  Avg:7.1ms  +:0  -:0  Ent:11,537  Pred:0
+enshrouded-1  | [ecss] writeEntitySerializationContext:
+enshrouded-1  | [ecss]   Templates: 6 (629 bytes) Components: 208 (58,784 bytes)  Size: 59,413
+enshrouded-1  | [ecss]   Entities: 35 (34 children)
+enshrouded-1  | [Server] Send Character Savegame 'tsx-cloud'
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::SNAP took 26.00 us
+enshrouded-1  | [ecss] writeEntitySerializationContext:
+enshrouded-1  | [ecss]   Templates: 1 (105 bytes) Components: 4 (1,504 bytes)  Size: 1,609
+enshrouded-1  | [ecss]   Entities: 1 (0 children)
+enshrouded-1  | [savexxx] SAVE 0 bases 0 entities size 1,926
+enshrouded-1  | [savedata] Compression of Blob 0x00000539::EXTS took 125.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000539::SRSG took 744.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::CSTR took 12.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::WETR took 180.00 us
+enshrouded-1  | [server] Save Serialization took 83.17 ms over 9 Ticks
+enshrouded-1  | [server] Saved
+enshrouded-1  | [server] Start Saving
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::USER took 64.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::KNOW took 15.00 us
+enshrouded-1  | MaxClientComponents: 1
+enshrouded-1  | Snapshot took 4.64 ms:  Entities: 11,526 (4,692,224 bytes)  Storages: 294 (1,084,272 bytes)  Chunks: 411 (6,376,011 / 26,935,296 bytes)  ClientComps: 26,136 bytes  Templates: 9,992  Snapping: 5,776,506  TotalSize: ~27,045,664
+enshrouded-1  | Removed 0 duplicates
+enshrouded-1  | VoxelSaveSize: 0
+enshrouded-1  | [ecss] writeEntitySerializationContext:
+enshrouded-1  | [ecss]   Templates: 6 (629 bytes) Components: 207 (58,480 bytes)  Size: 59,109
+enshrouded-1  | [ecss]   Entities: 34 (33 children)
+enshrouded-1  | [Server] Send Character Savegame 'tsx-cloud'
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::SNAP took 32.00 us
+enshrouded-1  | [ecss] writeEntitySerializationContext:
+enshrouded-1  | [ecss]   Templates: 1 (105 bytes) Components: 4 (1,504 bytes)  Size: 1,609
+enshrouded-1  | [ecss]   Entities: 1 (0 children)
+enshrouded-1  | [savexxx] SAVE 0 bases 0 entities size 1,926
+enshrouded-1  | [savedata] Compression of Blob 0x00000539::EXTS took 21.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000539::SRSG took 98.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::CSTR took 14.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::WETR took 89.00 us
+enshrouded-1  | [server] Save Serialization took 33.48 ms over 9 Ticks
+enshrouded-1  | [server] Saved
+enshrouded-1  | [server] Remove Entity for Player 'tsx-cloud'
+enshrouded-1  | [server] Remove Player 'tsx-cloud'
+enshrouded-1  | [online] Disconnecting peer #0
+enshrouded-1  | [online] Removed peer #0
+enshrouded-1  | [session] Remove player from session. Not found in online game info. Player Handle: 0(0) 
+enshrouded-1  | [SessionPlayer] started transition from 'Remote_InSession' to 'Free' (current='<invalid>')!
+enshrouded-1  | [SessionPlayer] 'WaitForJoin' (down)!
+enshrouded-1  | [session] Player removed. Player handle: 0(0)
+enshrouded-1  | [SessionPlayer] 'Reserve' (down)!
+enshrouded-1  | [SessionPlayer] finished transition from 'Remote_InSession' to 'Free' (current='Free')!
+enshrouded-1  | [session] Removed 0 pending packages for 1 removed Machines
+enshrouded-1  | -------------- Session ----------------
+enshrouded-1  | Machines:
+enshrouded-1  |   m#0(128): up 0 (0), down 0 (0), remote 0 (0), limit 2,048, lost 0, ping 9,223,372,036,854 ms, EstablishingBaseline
+enshrouded-1  | ---------------------------------------
+enshrouded-1  | 
+enshrouded-1  | 2025-06-14 20:35:16,383 INFO: Recieved SIGTERM, shutting down gracefully
+enshrouded-1  | [app] Trigger gameflow shutdown
+enshrouded-1  | [app] start destruction step StartGame
+enshrouded-1  | [app] start destruction step Init
+enshrouded-1  | [server] Start Saving
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::USER took 71.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::KNOW took 16.00 us
+enshrouded-1  | MaxClientComponents: 1
+enshrouded-1  | Snapshot took 1.06 ms:  Entities: 1,332 (544,768 bytes)  Storages: 40 (147,520 bytes)  Chunks: 42 (417,330 / 2,752,512 bytes)  ClientComps: 17,712 bytes  Templates: 3,768  Snapping: 692,298  TotalSize: ~2,792,552
+enshrouded-1  | Removed 0 duplicates
+enshrouded-1  | VoxelSaveSize: 0
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::SNAP took 192.00 us
+enshrouded-1  | [ecss] writeEntitySerializationContext:
+enshrouded-1  | [ecss]   Templates: 1 (105 bytes) Components: 4 (1,504 bytes)  Size: 1,609
+enshrouded-1  | [ecss]   Entities: 1 (0 children)
+enshrouded-1  | [savexxx] SAVE 0 bases 0 entities size 1,926
+enshrouded-1  | [savedata] Compression of Blob 0x00000539::EXTS took 25.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000539::SRSG took 93.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::CSTR took 22.00 us
+enshrouded-1  | [savedata] Compression of Blob 0x00000000::WETR took 55.00 us
+enshrouded-1  | [server] Save Serialization took 101.60 ms over 8 Ticks
+enshrouded-1  | [server] Saved
+enshrouded-1  | [savedata] Start 'Close Container' on container 3ad85aea
+enshrouded-1  | [savedata] Updating 'Close Container' on container 3ad85aea
+enshrouded-1  | [savedata] Finished 'Close Container' on container 3ad85aea
+enshrouded-1  | [Server] Grid Allocator ( 5269872 / 163577856 ) 3.22
+enshrouded-1  | [Session] started transition from 'Host_Online' to 'Lobby' (current='<invalid>')!
+enshrouded-1  | [OnlineProviderSteam] started transition from 'InGame' to 'Initialized' (current='<invalid>')!
+enshrouded-1  | Histogram: [Session] histogramMessageSize
+enshrouded-1  | ===========================================
+enshrouded-1  | [online] Removing all peers
+enshrouded-1  |   >=             0:     170,717   86.1%  |################################################################
+enshrouded-1  | [OnlineProviderSteam] 'ConnectToPeers' (down)!
+enshrouded-1  |   >=            64:      17,453    8.8%  |#######
+enshrouded-1  |   >=           128:       1,337    0.7%  |#
+enshrouded-1  | [OnlineProviderSteam] 'JoinLocalPlayers' (down)!
+enshrouded-1  |   >=           192:         736    0.4%  |
+enshrouded-1  | [OnlineProviderSteam] 'SetLobbyData' (down)!
+enshrouded-1  | [online] Removing all peers
+enshrouded-1  |   >=           256:         432    0.2%  |
+enshrouded-1  |   >=           320:         780    0.4%  |
+enshrouded-1  |   >=           384:       1,875    0.9%  |#
+enshrouded-1  |   >=           448:       1,631    0.8%  |#
+enshrouded-1  |   >=           512:       1,835    0.9%  |#
+enshrouded-1  |   >=           576:       1,012    0.5%  |
+enshrouded-1  |   >=           640:         163    0.1%  |
+enshrouded-1  |   >=           704:         114    0.1%  |
+enshrouded-1  |   >=           768:          49    0.0%  |
+enshrouded-1  |   >=           832:          25    0.0%  |
+enshrouded-1  |   >=           896:          18    0.0%  |
+enshrouded-1  |   >=           960:          24    0.0%  |
+enshrouded-1  |   >=         1,024:           9    0.0%  |
+enshrouded-1  |   >=         1,088:           5    0.0%  |
+enshrouded-1  |   >=         1,152:           1    0.0%  |
+enshrouded-1  |   >=         1,216:           0    0.0%  |
+enshrouded-1  |   >=         1,280:           0    0.0%  |
+enshrouded-1  |   >=         1,344:           0    0.0%  |
+enshrouded-1  |   >=         1,408:           0    0.0%  |
+enshrouded-1  |   >=         1,472:           0    0.0%  |
+enshrouded-1  |   >=         1,536:           0    0.0%  |
+enshrouded-1  |   >=         1,600:           0    0.0%  |
+enshrouded-1  |   >=         1,664:           0    0.0%  |
+enshrouded-1  |   >=         1,728:           0    0.0%  |
+enshrouded-1  |   >=         1,792:           0    0.0%  |
+enshrouded-1  |   >=         1,856:           0    0.0%  |
+enshrouded-1  |   >=         1,920:           0    0.0%  |
+enshrouded-1  |   >=         1,984:           0    0.0%  |
+enshrouded-1  |   >=         2,048:           0    0.0%  |
+enshrouded-1  |   >=         2,112:           0    0.0%  |
+enshrouded-1  |   >=         2,176:           0    0.0%  |
+enshrouded-1  |   >=         2,240:           0    0.0%  |
+enshrouded-1  |   >=         2,304:           0    0.0%  |
+enshrouded-1  |   >=         2,368:           0    0.0%  |
+enshrouded-1  |   >=         2,432:           0    0.0%  |
+enshrouded-1  |   >=         2,496:           0    0.0%  |
+enshrouded-1  |   >=         2,560:           0    0.0%  |
+enshrouded-1  |   >=         2,624:           0    0.0%  |
+enshrouded-1  |   >=         2,688:           3    0.0%  |
+enshrouded-1  |   >=         2,752:           0    0.0%  |
+enshrouded-1  |   >=         2,816:           0    0.0%  |
+enshrouded-1  |   >=         2,880:           0    0.0%  |
+enshrouded-1  |   >=         2,944:           0    0.0%  |
+enshrouded-1  |   >=         3,008:           0    0.0%  |
+enshrouded-1  |   >=         3,072:           0    0.0%  |
+enshrouded-1  |   >=         3,136:           0    0.0%  |
+enshrouded-1  |   >=         3,200:           0    0.0%  |
+enshrouded-1  |   >=         3,264:           0    0.0%  |
+enshrouded-1  |   >=         3,328:           0    0.0%  |
+enshrouded-1  |   >=         3,392:           0    0.0%  |
+enshrouded-1  |   >=         3,456:           0    0.0%  |
+enshrouded-1  |   >=         3,520:           0    0.0%  |
+enshrouded-1  |   >=         3,584:           0    0.0%  |
+enshrouded-1  |   >=         3,648:           0    0.0%  |
+enshrouded-1  |   >=         3,712:           0    0.0%  |
+enshrouded-1  |   >=         3,776:           0    0.0%  |
+enshrouded-1  |   >=         3,840:           0    0.0%  |
+enshrouded-1  |   >=         3,904:           0    0.0%  |
+enshrouded-1  |   >=         3,968:           0    0.0%  |
+enshrouded-1  |   >=         4,032:           0    0.0%  |
+enshrouded-1  |   >=         4,096:           0    0.0%  |
+enshrouded-1  |   >=         4,160:           0    0.0%  |
+enshrouded-1  |   >=         4,224:           0    0.0%  |
+enshrouded-1  |   >=         4,288:           0    0.0%  |
+enshrouded-1  |   >=         4,352:           0    0.0%  |
+enshrouded-1  |   >=         4,416:           0    0.0%  |
+enshrouded-1  |   >=         4,480:           0    0.0%  |
+enshrouded-1  |   >=         4,544:           0    0.0%  |
+enshrouded-1  |   >=         4,608:           0    0.0%  |
+enshrouded-1  |   >=         4,672:           0    0.0%  |
+enshrouded-1  |   >=         4,736:           0    0.0%  |
+enshrouded-1  |   >=         4,800:           0    0.0%  |
+enshrouded-1  |   >=         4,864:           0    0.0%  |
+enshrouded-1  |   >=         4,928:           0    0.0%  |
+enshrouded-1  |   >=         4,992:           0    0.0%  |
+enshrouded-1  |   >=         5,056:           0    0.0%  |
+enshrouded-1  |   >=         5,120:           0    0.0%  |
+enshrouded-1  |   >=         5,184:           0    0.0%  |
+enshrouded-1  |   >=         5,248:           0    0.0%  |
+enshrouded-1  |   >=         5,312:           0    0.0%  |
+enshrouded-1  |   >=         5,376:           0    0.0%  |
+enshrouded-1  |   >=         5,440:           0    0.0%  |
+enshrouded-1  |   >=         5,504:           0    0.0%  |
+enshrouded-1  |   >=         5,568:           0    0.0%  |
+enshrouded-1  |   >=         5,632:           0    0.0%  |
+enshrouded-1  |   >=         5,696:           0    0.0%  |
+enshrouded-1  |   >=         5,760:           0    0.0%  |
+enshrouded-1  |   >=         5,824:           0    0.0%  |
+enshrouded-1  |   >=         5,888:           0    0.0%  |
+enshrouded-1  |   >=         5,952:           0    0.0%  |
+enshrouded-1  |   >=         6,016:           0    0.0%  |
+enshrouded-1  |   >=         6,080:           0    0.0%  |
+enshrouded-1  |   >=         6,144:           0    0.0%  |
+enshrouded-1  |   >=         6,208:           0    0.0%  |
+enshrouded-1  |   >=         6,272:           0    0.0%  |
+enshrouded-1  |   >=         6,336:           0    0.0%  |
+enshrouded-1  |   >=         6,400:           0    0.0%  |
+enshrouded-1  |   >=         6,464:           0    0.0%  |
+enshrouded-1  |   >=         6,528:           0    0.0%  |
+enshrouded-1  |   >=         6,592:           0    0.0%  |
+enshrouded-1  |   >=         6,656:           0    0.0%  |
+enshrouded-1  |   >=         6,720:           0    0.0%  |
+enshrouded-1  |   >=         6,784:           0    0.0%  |
+enshrouded-1  |   >=         6,848:           0    0.0%  |
+enshrouded-1  |   >=         6,912:           0    0.0%  |
+enshrouded-1  |   >=         6,976:           0    0.0%  |
+enshrouded-1  |   >=         7,040:           0    0.0%  |
+enshrouded-1  |   >=         7,104:           0    0.0%  |
+enshrouded-1  |   >=         7,168:           0    0.0%  |
+enshrouded-1  |   >=         7,232:           0    0.0%  |
+enshrouded-1  |   >=         7,296:           0    0.0%  |
+enshrouded-1  |   >=         7,360:           0    0.0%  |
+enshrouded-1  |   >=         7,424:           0    0.0%  |
+enshrouded-1  |   >=         7,488:           0    0.0%  |
+enshrouded-1  |   >=         7,552:           0    0.0%  |
+enshrouded-1  |   >=         7,616:           0    0.0%  |
+enshrouded-1  |   >=         7,680:           0    0.0%  |
+enshrouded-1  |   >=         7,744:           0    0.0%  |
+enshrouded-1  |   >=         7,808:           0    0.0%  |
+enshrouded-1  |   >=         7,872:           0    0.0%  |
+enshrouded-1  |   >=         7,936:           0    0.0%  |
+enshrouded-1  |   >=         8,000:           0    0.0%  |
+enshrouded-1  |   >=         8,064:           0    0.0%  |
+enshrouded-1  |   >=         8,128:           0    0.0%  |
+enshrouded-1  | 
+enshrouded-1  |   ValueCount: 198,184
+enshrouded-1  | [OnlineProviderSteam] 'JoinOrCreateGame' (down)!
+enshrouded-1  | [OnlineProviderSteam] finished transition from 'InGame' to 'Initialized' (current='Initialized')!
+enshrouded-1  |   ValueSum:   11,167,464
+enshrouded-1  |   AvgValue:   56.35
+enshrouded-1  | 
+enshrouded-1  | Histogram: [Session] histogramPacketSize
+enshrouded-1  | ===========================================
+enshrouded-1  |   >=             0:           0    0.0%  |
+enshrouded-1  |   >=            50:       9,092   35.6%  |################################################################
+enshrouded-1  |   >=           100:         380    1.5%  |###
+enshrouded-1  |   >=           150:         269    1.1%  |##
+enshrouded-1  |   >=           200:         275    1.1%  |##
+enshrouded-1  |   >=           250:         344    1.3%  |##
+enshrouded-1  |   >=           300:         436    1.7%  |###
+enshrouded-1  |   >=           350:         426    1.7%  |###
+enshrouded-1  |   >=           400:         589    2.3%  |####
+enshrouded-1  |   >=           450:         823    3.2%  |######
+enshrouded-1  |   >=           500:       1,040    4.1%  |#######
+enshrouded-1  |   >=           550:       1,103    4.3%  |########
+enshrouded-1  |   >=           600:         953    3.7%  |#######
+enshrouded-1  |   >=           650:         767    3.0%  |#####
+enshrouded-1  |   >=           700:         618    2.4%  |####
+enshrouded-1  |   >=           750:         610    2.4%  |####
+enshrouded-1  |   >=           800:         533    2.1%  |####
+enshrouded-1  |   >=           850:         606    2.4%  |####
+enshrouded-1  |   >=           900:         664    2.6%  |#####
+enshrouded-1  |   >=           950:         570    2.2%  |####
+enshrouded-1  |   >=         1,000:         548    2.1%  |####
+enshrouded-1  |   >=         1,050:         540    2.1%  |####
+enshrouded-1  |   >=         1,100:         908    3.6%  |######
+enshrouded-1  |   >=         1,150:       3,462   13.5%  |########################
+enshrouded-1  | 
+enshrouded-1  |   ValueCount: 25,556
+enshrouded-1  |   ValueSum:   13,270,060
+enshrouded-1  |   AvgValue:   519.25
+enshrouded-1  | 
+enshrouded-1  | Histogram: [Session] histogramPacketSizeWithoutLast
+enshrouded-1  | ===========================================
+enshrouded-1  |   >=             0:           0    0.0%  |
+enshrouded-1  |   >=            50:          23    0.6%  |
+enshrouded-1  |   >=           100:           0    0.0%  |
+enshrouded-1  |   >=           150:           0    0.0%  |
+enshrouded-1  |   >=           200:           1    0.0%  |
+enshrouded-1  |   >=           250:           0    0.0%  |
+enshrouded-1  |   >=           300:           1    0.0%  |
+enshrouded-1  |   >=           350:           1    0.0%  |
+enshrouded-1  |   >=           400:           1    0.0%  |
+enshrouded-1  |   >=           450:           2    0.1%  |
+enshrouded-1  |   >=           500:           4    0.1%  |
+enshrouded-1  |   >=           550:           4    0.1%  |
+enshrouded-1  |   >=           600:           1    0.0%  |
+enshrouded-1  |   >=           650:           1    0.0%  |
+enshrouded-1  |   >=           700:           0    0.0%  |
+enshrouded-1  |   >=           750:          76    2.0%  |##
+enshrouded-1  |   >=           800:           1    0.0%  |
+enshrouded-1  |   >=           850:          27    0.7%  |#
+enshrouded-1  |   >=           900:           0    0.0%  |
+enshrouded-1  |   >=           950:           8    0.2%  |
+enshrouded-1  |   >=         1,000:           9    0.2%  |
+enshrouded-1  |   >=         1,050:          33    0.9%  |#
+enshrouded-1  |   >=         1,100:         495   13.1%  |##########
+enshrouded-1  |   >=         1,150:       3,090   81.8%  |################################################################
+enshrouded-1  | 
+enshrouded-1  |   ValueCount: 3,778
+enshrouded-1  |   ValueSum:   4,350,543
+enshrouded-1  |   AvgValue:   1151.55
+enshrouded-1  | 
+enshrouded-1  | [Session] 'HostOnline' (down)!
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [session] Bytes sent (server)                Total    Max / Sec   Avg / Sec Max / S / P Avg / S / P  Max / Tick  Avg / Tick Max / T / P Avg / T / P
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [session]                                    3,502           17           9          17           6          17           0          17           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                      661          661           1         661           1         661           0         661           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                      184          184           0         184           0         184           0         184           0
+enshrouded-1  | [session]                                    2,080           56           5          56           2          44           0          44           0
+enshrouded-1  | [session]                                        8            8           0           8           0           8           0           8           0
+enshrouded-1  | [session]                                6,455,726      208,726      18,236     208,726       8,446      23,036          90      23,036          41
+enshrouded-1  | [session]                                4,686,612       45,598      13,239      45,598       6,142       3,759          65       3,759          29
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                   54,336       27,256         153      27,256          35      27,256           0      27,256           0
+enshrouded-1  | [session]                                   22,620       11,216          63      11,216          29      11,212           0      11,212           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                       36           36           0          36           0          36           0          36           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                      123           59           0          59           0          59           0          59           0
+enshrouded-1  | [session]                                       16           16           0          16           0          16           0          16           0
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [session] Total                         11,225,904      239,713      31,711     239,713      20,024      27,256         156      27,256          98
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [session]
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [session] Bytes sent (client)                Total    Max / Sec   Avg / Sec Max / S / P Avg / S / P  Max / Tick  Avg / Tick Max / T / P Avg / T / P
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session]                                        0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [session] Total                                  0            0           0           0           0           0           0           0           0
+enshrouded-1  | [session] -----------------------------------------------------------------------------------------------------------------------------------------
+enshrouded-1  | [Session] 'PrepareGame' (down)!
+enshrouded-1  | [Session] finished transition from 'Host_Online' to 'Lobby' (current='Lobby')!
+enshrouded-1  | [session] Removed 0 pending packages for 1 removed Machines
+enshrouded-1  | [app] start destruction step StartGame
+enshrouded-1  | [app] start destruction step Init_ServerThread
+enshrouded-1  | [app] start destruction step Init_TwitchDrops
+enshrouded-1  | [app] start destruction step Load_ResourceObject
+enshrouded-1  | [app] start destruction step Init_SaveDataSystem
+enshrouded-1  | [app] start destruction step Init_Tracking
+enshrouded-1  | [app] start destruction step Init_Session
+enshrouded-1  | [app] start destruction step Init_OnlineSystem
+enshrouded-1  | [OnlineProviderSteam] started transition from 'Initialized' to 'Uninitialized' (current='<invalid>')!
+enshrouded-1  | [OnlineProviderSteam] 'Initialize' (down)!
+enshrouded-1  | [OnlineProviderSteam] finished transition from 'Initialized' to 'Uninitialized' (current='Uninitialized')!
+enshrouded-1  | [online] Removing all peers
+enshrouded-1  | [app] start destruction step Init_UserSystem
+enshrouded-1  | [app] start destruction step Init_Version
+enshrouded-1  | [app] start destruction step Init_ResourcePreload_Wait
+enshrouded-1  | [app] start destruction step Init_ResourcePreload_Start
+enshrouded-1  | [app] start destruction step Init_ResourceSystem
+enshrouded-1  | [app] start destruction step Init_Steamworks
+enshrouded-1  | [app] start destruction step Init
+enshrouded-1  | [enshrouded] Close Log file
+enshrouded-1  | SetTimerResolution 0: 1,000 us
+enshrouded-1  | 2025-06-14 20:35:17,387 INFO: Shutdown complete.
+
+[Kenshrouded-1 exited with code 0
