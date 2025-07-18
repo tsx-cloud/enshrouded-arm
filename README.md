@@ -60,7 +60,9 @@ services:
 
 ## Links
 You can find the Docker builds here:
-https://hub.docker.com/r/tsxcloud/enshrouded-arm
+https://hub.docker.com/r/tsxcloud/enshrouded-arm  
+You can leave comments here:  
+https://www.reddit.com/r/Enshrouded/comments/1lbqccv/enshrouded_arm   
 
 ## Acknowledgments
 https://github.com/jsknnr/enshrouded-server  
