@@ -67,16 +67,17 @@ wine ${SERVER}/enshrouded_server.exe --config ${ENSHROUDED_CONFIG} &
 # Find pid for enshrouded_server.exe
 timeout=0
 while [ $timeout -lt 11 ]; do
-    if ps -e | grep "enshrouded_serv"; then
-        enshrouded_pid=$(ps -e | grep "enshrouded_serv" | awk '{print $1}')
+    if ps -e | grep "MainThrd"; then
+        enshrouded_pid=$(ps -e | grep "MainThrd" | awk '{print $1}')
         break
     elif [ $timeout -eq 10 ]; then
-        echo "$(timestamp) ERROR: Timed out waiting for enshrouded_server.exe to be running"
+        echo "$(timestamp) ERROR: Timed out waiting for enshrouded_server (MainThrd) to be running"
+        ps -e
         exit 1
     fi
     sleep 6
     ((timeout++))
-    echo "$(timestamp) INFO: Waiting for enshrouded_server.exe to be running"
+    echo "$(timestamp) INFO: Waiting for enshrouded_server (MainThrd) to be running"
 done
 
 echo " "
