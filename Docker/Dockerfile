@@ -9,6 +9,9 @@ COPY emulators.rc .
 COPY load_emulators_env.sh /load_emulators_env.sh
 RUN chmod +x /load_emulators_env.sh
 
+COPY print_app_versions.sh /print_app_versions.sh
+RUN chmod +x /print_app_versions.sh
+
 COPY start.sh /start.sh
 RUN chmod +x /start.sh
 ENTRYPOINT []

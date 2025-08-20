@@ -31,12 +31,7 @@ echo "Load extra Box64 and Fex-emu settings from emulators.rc"
 source /load_emulators_env.sh
 echo " "
 
-if which box64 >/dev/null 2>&1; then
-    box64 -v
-fi
-echo " "
-wine --version 2>&1
-echo " "
+/print_app_versions.sh
 
 # Install/Update Enshrouded
 echo "$(timestamp) INFO: Updating Enshrouded Dedicated Server"
